@@ -154,7 +154,7 @@ func main() {
 				panic(err)
 			}
 
-			fmt.Println("Updated", len(new_list), "modules in", filename)
+			fmt.Println("Updated modules in", filename)
 		}
 	}
 }
