@@ -72,6 +72,11 @@ $ cat test/import_map.json
 }
 ```
 
+## Installation
+```
+go install github.com/bit-bandit/bump
+```
+
 ## Notes
 
 - Current only works well with `deno.land` and `esm.sh`. Most other repositories
